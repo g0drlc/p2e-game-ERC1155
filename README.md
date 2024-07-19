@@ -220,8 +220,6 @@
     —Then I changed the code to be compatible with chainlink node on rinkeby 
 
     This is a lot of Bla bla bla but if you have a question or a place in project for me :) 
-    Discord : Mowgli#7713
-    Telegram : https://t.me/mowgli_9
 
 # Developement next Features :
 
